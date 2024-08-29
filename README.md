@@ -1,5 +1,6 @@
 # BoolBidsBot
 The Bool Bids' Discord Bot.
+
 bool
 bool
 bool
